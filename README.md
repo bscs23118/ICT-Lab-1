@@ -5,4 +5,5 @@ _Home_
 _Education_
 ![image](https://github.com/bscs23118/ICT-Lab-1/assets/149463393/e5466535-a89b-4dda-8c3d-3498686780ee)
 _Projects
-![Uploading image.png…]()
+![image](https://github.com/bscs23118/ICT-Lab-1/assets/149463393/54c2c14d-51cc-4678-b79a-06e403d935f4)
+
